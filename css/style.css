@@ -1,0 +1,21 @@
+body {
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size:15px;
+    line-height: 2.2en;
+    
+};
+
+h1{
+    font-size: 63px;
+    color: #af2c2c;
+};
+
+h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #da1212;
+    
+};
+
+
